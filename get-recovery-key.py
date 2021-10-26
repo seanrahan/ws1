@@ -2,7 +2,7 @@
 """
 Author: Sean Hanrahan
 shanrahan@vmware.com
-script will grab macOS recovery key from device with supplied UDID
+script will grab macOS FileVault recovery key from device with supplied UDID
 usage: python3 get-recovery-key.py <UDID>
 """
 # import libraries
